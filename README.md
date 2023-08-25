@@ -1,3 +1,3 @@
 # Slack like Example
 
-## CSS grid layout animations
+## CSS grid layout
